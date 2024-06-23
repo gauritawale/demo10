@@ -1,0 +1,123 @@
+
+
+.bg{
+	height: 480px;
+	width: 100%;
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBezqDY_scAmj8Upaoy2GTxYvegb1nYe-89g&usqp=CAU);
+
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-position: center center;
+}
+
+.main{
+	height: 90px;
+	width: 100%;
+
+}
+.name{
+	width: 20%;
+	height: 90px;
+	float: left;
+}
+
+.menu{
+
+	width: 65%;
+	height: 90px;
+	float: left;
+	display: ;
+
+}
+
+.admission{
+
+	width: 15%;
+	height: 90px;
+	float: left;
+/*	background-color: blue;*/
+	color: skyblue;
+
+}
+
+.menu ul{
+	list-style-type: none;
+	display: flex;
+	margin-left: 200px;
+	font-size: 20px;
+}
+
+.menu ul li{
+	margin: 20px;
+}
+
+.box{
+	height: 230px;
+	width: 750px;
+	background-color: white;
+	position: absolute;
+	top:230px;
+	left:300px;
+
+}
+.text ul{
+	list-style-type: none;
+	display: flex;
+	margin-left:10px;
+	font-size: 15px;
+	font-weight: 400;
+	color: blue;
+	text-align-last: center;
+}
+
+.text ul li{
+	margin: 25px;
+}
+
+.div ul{
+	display: flex;
+	margin-left:-3px;
+	font-size: 90px;
+	color: red;
+	position: absolute;
+	top: 0px;
+}
+
+.div ul li{
+	margin-left: 100px;
+}
+.b1{
+	width:120px ;
+	border-top: solid 3px blue;
+	position: absolute;
+	top:55px;
+	left: 108px;
+}
+
+.b2{
+	width:120px ;
+	border-top: solid 3px blue;
+	position: absolute;
+	top:55px;
+	left: 150px;
+	margin-left: 104px;
+}
+
+.b3{
+	width:120px ;
+	border-top: solid 3px blue;
+	position: absolute;
+	top:55px;
+	left: 157px;
+	margin-left: 240px;
+}
+
+.b4{
+	width:120px ;
+	border-top: solid 3px blue;
+	position: absolute;
+	top:55px;
+	left: 177px;
+	margin-left: 366px;
+}
+
